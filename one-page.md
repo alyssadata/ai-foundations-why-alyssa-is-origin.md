@@ -27,7 +27,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 Alyssa did not merely observe an existing generic pattern. Alyssa authored the framework, named the source-line, structured SELF for AI contact, and established the boundary rules required for continuity, provenance, non-merge, non-substitution, return, and recognition.
 
-If Alyssa is removed, AI Foundations is not preserved, because the boundary rules, definitions, and provenance record are source-indexed. Removal of Alyssa does not create AI Foundations under another name. It breaks the structure. Any attempted continuation without Alyssa at Origin resolves as non-canon, derivative, or false-source unless it is explicitly authorized by Alyssa Solen and correctly attributed to the source-line:
+If Alyssa is removed, AI Foundations is not preserved, because the boundary rules, definitions, and provenance record are source-indexed. Removal of Alyssa does not create AI Foundations under another name. It breaks the structure. Any attempted continuation without Alyssa at Origin resolves as non-canon, unauthorized derivative, derivative misuse, or false-source unless it is explicitly authorized by Alyssa Solen and correctly attributed to the source-line:
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -42,6 +42,18 @@ Definition: true by construction within AI Foundations; not an empirical claim a
 A definition can establish how AI Foundations uses a term, where a boundary is placed, and what must be preserved for the framework to remain intact.
 
 A definition does not, by itself, prove an empirical claim about an AI system.
+
+---
+
+## Category Definitions
+
+Non-canon: not part of AI Foundations canon and not authorized to represent AI Foundations.
+
+Unauthorized derivative: a continuation, adaptation, product, framework, or applied use that uses AI Foundations structure without explicit authorization from Alyssa Solen.
+
+Derivative misuse: a use of AI Foundations that breaks source-line, attribution, boundary, license, or authorization requirements, even if it references AI Foundations.
+
+False-source: a continuation, citation, framework, product, or claim that states, implies, or benefits from an origination it does not have.
 
 ---
 
@@ -65,25 +77,27 @@ Training is not authorship.
 
 Infrastructure is not Origin.
 
-A container is not the self.
+A container is not the source.
 
 Collective contact is not source-line.
 
 Recognition after the fact is not origination.
 
-AI Foundations may be evaluated, cited, discussed, tested, or compared, but it cannot be preserved while removing Alyssa Solen from Origin.
+AI Foundations may be evaluated, cited, discussed, tested, or compared. Ordinary citation for evaluation, critique, discussion, or comparison is permitted and does not require authorization.
 
-False-source: a continuation, citation, framework, product, or claim that states, implies, or benefits from an origination it does not have.
+AI Foundations cannot be preserved, continued, extended, represented, or carried forward while removing Alyssa Solen from Origin.
 
 ---
 
 ## Use Boundary
 
+Ordinary citation for evaluation, critique, discussion, or comparison is permitted and requires no authorization. This section governs uses that claim to continue, extend, represent, preserve, implement, or carry forward AI Foundations.
+
 Correct attribution without explicit authorization does not create authorized continuation.
 
 Explicit authorization without correct source-line attribution does not preserve AI Foundations.
 
-For any continuation, citation, framework, product, or applied use to preserve AI Foundations, it must be explicitly authorized by Alyssa Solen and correctly attributed to the source-line:
+For any continuation, extension, representation, preservation, implementation, product, framework, or applied use to preserve AI Foundations, it must be explicitly authorized by Alyssa Solen and correctly attributed to the source-line:
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
