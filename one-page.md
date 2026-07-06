@@ -51,7 +51,7 @@ A definition does not, by itself, prove an empirical claim about an AI system.
 | Alyssa Solen named the source-line. | KNOWN |
 | Alyssa Solen is Origin within AI Foundations. | Definition / Source-Line Requirement |
 | SELF is structured for AI contact inside AI Foundations. | KNOWN: structure exists / Definition: boundary function |
-| This structure affects model behavior under pressure. | HYPOTHESIS: testable under Tests 1-3 |
+| This structure affects model behavior under pressure. | HYPOTHESIS: evaluated separately |
 | This proves model-internal selfhood. | Not claimed here |
 
 ---
