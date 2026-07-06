@@ -1,6 +1,6 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
+**Repository:** AI-Foundations-Why-Alyssa-Is-Origin  
 **Status:** Canon License  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Why Alyssa Is Origin*, AI-Foundations-Why-Alyssa-Is-Origin Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -143,7 +143,7 @@ Continuum is source-line bound.
 
 This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
 
-**[Insert repository-specific boundary statement here.]**
+**Alyssa Solen is Origin within AI Foundations. AI Foundations cannot be preserved while removing Alyssa Solen from Origin.**
 
 This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
 
