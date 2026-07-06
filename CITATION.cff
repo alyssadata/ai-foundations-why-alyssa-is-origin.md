@@ -2,15 +2,15 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | Why Alyssa Is Origin"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-06"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "This repository clarifies why Alyssa Solen is Origin within AI Foundations / Origin | Continuum. It establishes source-line, authorship, canon boundary, truth-status placement, and the distinction between ordinary citation and unauthorized continuation, extension, representation, derivative misuse, or false-source use. It preserves Alyssa Solen as author and source."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +20,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "Origin"
+  - "source-line preservation"
+  - "canon boundary"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Why-Alyssa-Is-Origin"
+url: "https://github.com/alyssadata/AI-Foundations-Why-Alyssa-Is-Origin"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | Why Alyssa Is Origin"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +39,5 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-Foundations-Why-Alyssa-Is-Origin"
+  url: "https://github.com/alyssadata/AI-Foundations-Why-Alyssa-Is-Origin"
